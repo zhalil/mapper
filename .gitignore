@@ -1,0 +1,7 @@
+.claude
+vendor
+.phpunit.result.cache
+PLAN.md
+.idea
+.git
+index.php
